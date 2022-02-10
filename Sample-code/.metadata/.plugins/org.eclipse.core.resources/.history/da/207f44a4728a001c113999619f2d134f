@@ -1,0 +1,16 @@
+package ee.ut.cs.ds.sample.threads;
+
+public class Multithreading {
+
+	public static void main(String[] args) {
+		
+		//Alternative-1 for Multithreading using Thread
+		MultithreadAlt1 exp1 = new MultithreadAlt1(); 
+		exp1.start();
+		
+		
+		
+
+	}
+
+}

@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/home/huber/Desktop/DS2022/Sample-code/.metadata/.plugins/org.eclipse.jdt.core
+3002710755.index
+1272691629.index
+2284431364.index
+1865797976.index

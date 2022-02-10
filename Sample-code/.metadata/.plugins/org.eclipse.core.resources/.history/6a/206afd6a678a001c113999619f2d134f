@@ -1,0 +1,5 @@
+package ee.ut.cs.ds.sample.rpc;
+
+public interface Server {
+
+}

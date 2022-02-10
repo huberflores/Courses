@@ -1,0 +1,23 @@
+package ee.ut.cs.ds.sample.threads;
+
+public class Multithreading {
+
+	public static void main(String[] args) {
+		
+		//Alternative-1 for Multithreading using Thread
+		MultithreadAlt1 job1 = new MultithreadAlt1();
+		MultithreadAlt1 job2 = new MultithreadAlt1();
+		
+		//This is incorrect in the context of multi-threads. Code will be executed, but sequentially
+		job1.run();
+		job2.run();
+		
+		//job1.start();
+		//job2.start();
+		
+		
+		
+
+	}
+
+}
